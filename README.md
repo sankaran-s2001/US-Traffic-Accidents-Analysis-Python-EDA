@@ -118,7 +118,7 @@ This analysis explores US traffic accident patterns to understand:
 ```
 📦 us-accidents-eda/
 ├── 📄 README.md                           (This file)
-├── 📓 EDA_US_accidents.html               (Jupyter notebook)
+├── 📓 EDA_US_accidents.pdf               (Jupyter notebook pdf version)
 ├── 📊 Accidents_by_Day_of_Week.png        (Weekly patterns)
 ├── 📊 Accidents_by_Daylight_vs_Night.png  (Day/night analysis)
 ├── 📊 Accidents_by_state.png              (Geographic distribution)
